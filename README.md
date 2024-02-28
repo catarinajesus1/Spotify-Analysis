@@ -1,7 +1,7 @@
 # Spotify-Analysis
 
-This report analyzes popularity of the musics streamed in spotify all over the years which was executed predictive analysis to identify which variable have higher impact in being more popular or not and it was forecasted the 3 variables with higher influence (danceability, loudness and tempo) for business purposes.
+This report delves into the evolution of music popularity on Spotify over the years, employing predictive analysis to identify influential variables affecting a song's popularity. The study forecasts the three most impactful variables, namely danceability, loudness, and tempo, for business purposes.
 
-Files can be found in the following link: https://www.kaggle.com/datasets/lehaknarnauli/spotify-datasets?select=tracks.csv
+Access the raw data at Spotify Datasets on Kaggle: //www.kaggle.com/datasets/lehaknarnauli/spotify-datasets?select=tracks.csv
 
-Presentation of the analyzes: https://www.youtube.com/watch?v=c4Acz0vL7gQ
+Watch the presentation of the analyses on YouTube: [Analyzing Spotify Music Popularity](https://www.youtube.com/watch?v=c4Acz0vL7gQ)https://www.youtube.com/watch?v=c4Acz0vL7gQ
